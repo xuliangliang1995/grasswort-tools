@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f08155a3-70bd-4e87-8bf9-4db6a68ad92f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4lrEQlkDxYCorQjqoyvsT6JBv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Xml2MapXStreamTest">
+    <configuration name="AnimalXStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.AnimalXStreamTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.xstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonXStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.PersonXStreamTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.xstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentXStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.StudentXStreamTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.xstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XStreamHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.XStreamHelloWorld" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.xstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xml2MapXStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.Xml2MapXStreamTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.xstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Xml2MapXStreamTest" />
+        <item itemvalue="Application.AnimalXStreamTest" />
+        <item itemvalue="Application.PersonXStreamTest" />
+        <item itemvalue="Application.StudentXStreamTest" />
+        <item itemvalue="Application.XStreamHelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f08155a3-70bd-4e87-8bf9-4db6a68ad92f" name="Default Changelist" comment="" />
+      <created>1586002943104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586002943104</updated>
+      <workItem from="1586002944520" duration="415000" />
+      <workItem from="1586003610761" duration="597000" />
+      <workItem from="1586004617019" duration="137000" />
+      <workItem from="1586004847239" duration="388000" />
+      <workItem from="1586049688633" duration="2589000" />
+      <workItem from="1586053442998" duration="1109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1586051299174">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1586051299174" />
+    <state x="634" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586052597239">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586052597239" />
+    <state width="1752" height="191" key="GridCell.Tab.0.bottom" timestamp="1586053057073">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1752" height="191" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057073" />
+    <state width="1752" height="191" key="GridCell.Tab.0.center" timestamp="1586053057072">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1752" height="191" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057072" />
+    <state width="1752" height="191" key="GridCell.Tab.0.left" timestamp="1586053057071">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1752" height="191" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057071" />
+    <state width="1752" height="191" key="GridCell.Tab.0.right" timestamp="1586053057072">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1752" height="191" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057072" />
+    <state x="435" y="199" key="SettingsEditor" timestamp="1586069509776">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="435" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586069509776" />
+  </component>
+</project>
