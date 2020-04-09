@@ -28,6 +28,7 @@ public class StudentXStreamTest {
         note2.setDescription("desc2");
         student.addNote(note2);
 
+        // StaxDriver使用SAX解析器(可从Java6)，一个快速的XML解析器。
         XStream xStream = new XStream(new StaxDriver());
         String xml = xStream.toXML(student);
         System.out.println(XmlFormatUtil.formatXml(xml));

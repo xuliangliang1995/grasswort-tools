@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f08155a3-70bd-4e87-8bf9-4db6a68ad92f" name="Default Changelist" comment="" />
+    <list default="true" id="f08155a3-70bd-4e87-8bf9-4db6a68ad92f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/PersonXStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/PersonXStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/StudentXStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/StudentXStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/PersonXStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/PersonXStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/Xml2MapXStreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/grasswort/xstream/model/Xml2Map.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a4lrEQlkDxYCorQjqoyvsT6JBv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,7 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Xml2MapXStreamTest">
+  <component name="RunManager" selected="Application.PersonXStreamTest">
     <configuration name="AnimalXStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.grasswort.xstream.AnimalXStreamTest" />
       <module name="grasswort-tools" />
@@ -111,9 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonXStreamTest" />
         <item itemvalue="Application.Xml2MapXStreamTest" />
         <item itemvalue="Application.AnimalXStreamTest" />
-        <item itemvalue="Application.PersonXStreamTest" />
         <item itemvalue="Application.StudentXStreamTest" />
         <item itemvalue="Application.XStreamHelloWorld" />
       </list>
@@ -146,7 +156,12 @@
       <workItem from="1586004617019" duration="137000" />
       <workItem from="1586004847239" duration="388000" />
       <workItem from="1586049688633" duration="2589000" />
-      <workItem from="1586053442998" duration="1109000" />
+      <workItem from="1586053442998" duration="1383000" />
+      <workItem from="1586073125065" duration="10000" />
+      <workItem from="1586270813297" duration="245000" />
+      <workItem from="1586273128251" duration="1060000" />
+      <workItem from="1586308752196" duration="61000" />
+      <workItem from="1586339841799" duration="518000" />
     </task>
     <servers />
   </component>
@@ -154,30 +169,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1586051299174">
+    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1586273612961">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1586051299174" />
+    <state x="709" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1586273612961" />
     <state x="634" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586052597239">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586052597239" />
-    <state width="1752" height="191" key="GridCell.Tab.0.bottom" timestamp="1586053057073">
+    <state width="1752" height="243" key="GridCell.Tab.0.bottom" timestamp="1586274190931">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1752" height="191" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057073" />
-    <state width="1752" height="191" key="GridCell.Tab.0.center" timestamp="1586053057072">
+    <state width="1752" height="243" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586274190931" />
+    <state width="1752" height="243" key="GridCell.Tab.0.center" timestamp="1586274190929">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1752" height="191" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057072" />
-    <state width="1752" height="191" key="GridCell.Tab.0.left" timestamp="1586053057071">
+    <state width="1752" height="243" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586274190929" />
+    <state width="1752" height="243" key="GridCell.Tab.0.left" timestamp="1586274190929">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1752" height="191" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057071" />
-    <state width="1752" height="191" key="GridCell.Tab.0.right" timestamp="1586053057072">
+    <state width="1752" height="243" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586274190929" />
+    <state width="1752" height="243" key="GridCell.Tab.0.right" timestamp="1586274190930">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1752" height="191" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586053057072" />
+    <state width="1752" height="243" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586274190930" />
     <state x="435" y="199" key="SettingsEditor" timestamp="1586069509776">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

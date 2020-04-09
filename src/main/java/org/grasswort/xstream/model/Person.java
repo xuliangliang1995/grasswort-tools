@@ -1,5 +1,6 @@
 package org.grasswort.xstream.model;
 
+import com.thoughtworks.xstream.annotations.XStreamAlias;
 import lombok.Data;
 
 /**
@@ -10,6 +11,7 @@ import lombok.Data;
  * @blame Java Team
  */
 @Data
+@XStreamAlias("xml")
 public class Person {
 
     private String name;
