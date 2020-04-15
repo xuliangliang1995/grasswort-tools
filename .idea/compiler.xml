@@ -10,7 +10,7 @@
         <module name="grasswort-tools" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="grasswort-tools" target="1.8" />
     </bytecodeTargetLevel>
   </component>

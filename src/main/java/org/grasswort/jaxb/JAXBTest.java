@@ -1,6 +1,5 @@
 package org.grasswort.jaxb;
 
-import com.sun.xml.internal.xsom.util.DomAnnotationParserFactory;
 import org.grasswort.jaxb.model.Score;
 import org.grasswort.jaxb.model.User;
 import org.xml.sax.InputSource;
