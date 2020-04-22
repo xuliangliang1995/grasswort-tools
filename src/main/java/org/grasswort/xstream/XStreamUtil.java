@@ -60,6 +60,7 @@ public class XStreamUtil {
                 }
             });
             XSTREAM.autodetectAnnotations(true);
+            XSTREAM.ignoreUnknownElements();
         }
 
     }
