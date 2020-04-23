@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abddef6b-cc48-4ad2-b8eb-6f60529a01e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/jaxb/JAXBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/jaxb/JAXBUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/XStreamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/xstream/XStreamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/grasswort/jaxb/JAXBTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/jaxb/JAXBTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JAXBUtilTest">
     <configuration name="Dom4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.grasswort.dom4j.Dom4jTest" />
       <module name="grasswort-tools" />
@@ -51,8 +53,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JAXBTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.jaxb.JAXBTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.jaxb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAXBUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.grasswort.jaxb.JAXBUtilTest" />
+      <module name="grasswort-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.grasswort.jaxb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JAXBUtilTest" />
+        <item itemvalue="Application.JAXBTest" />
         <item itemvalue="Application.Dom4jTest" />
       </list>
     </recent_temporary>
@@ -80,6 +110,7 @@
       <workItem from="1587305566556" duration="1028000" />
       <workItem from="1587537202448" duration="280000" />
       <workItem from="1587543613886" duration="18000" />
+      <workItem from="1587627606044" duration="4345000" />
     </task>
     <servers />
   </component>
@@ -87,22 +118,26 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1879" height="163" key="GridCell.Tab.0.bottom" timestamp="1586943893055">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1587631073997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="163" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586943893055" />
-    <state width="1879" height="163" key="GridCell.Tab.0.center" timestamp="1586943893055">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587631073997" />
+    <state width="1879" height="274" key="GridCell.Tab.0.bottom" timestamp="1587631866494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="163" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586943893055" />
-    <state width="1879" height="163" key="GridCell.Tab.0.left" timestamp="1586943893055">
+    <state width="1879" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587631866494" />
+    <state width="1879" height="274" key="GridCell.Tab.0.center" timestamp="1587631866494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="163" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586943893055" />
-    <state width="1879" height="163" key="GridCell.Tab.0.right" timestamp="1586943893055">
+    <state width="1879" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587631866494" />
+    <state width="1879" height="274" key="GridCell.Tab.0.left" timestamp="1587631866494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="163" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586943893055" />
+    <state width="1879" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587631866494" />
+    <state width="1879" height="274" key="GridCell.Tab.0.right" timestamp="1587631866494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587631866494" />
     <state x="493" y="166" key="SettingsEditor" timestamp="1586941494661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -111,10 +146,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="295" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586437060381" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587537268769">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587631459663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="581" y="242" width="670" height="731" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1587306108248" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587537268769" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587631459663" />
   </component>
 </project>

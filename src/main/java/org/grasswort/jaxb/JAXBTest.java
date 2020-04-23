@@ -80,5 +80,8 @@ public class JAXBTest {
             e.printStackTrace();
         }
 
+        Object object = new User();
+        System.out.println(object.getClass());
+
     }
 }
