@@ -22,13 +22,12 @@ import java.io.StringWriter;
  * @blame Java Team
  */
 public class JsonXmlUtil {
-    /**
-     * json string convert to xml string
-     */
+
     public static String json2xml(String json) {
         StringReader input = new StringReader(json);
         StringWriter output = new StringWriter();
-        JsonXMLConfig config = new JsonXMLConfigBuilder().multiplePI(false)
+        JsonXMLConfig config = new JsonXMLConfigBuilder()
+                .multiplePI(false)
                 .repairingNamespaces(false).build();
         try {
             XMLEventReader reader = new JsonXMLInputFactory(config)
@@ -42,9 +41,9 @@ public class JsonXmlUtil {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
+            input.close();
             try {
                 output.close();
-                input.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -52,9 +51,7 @@ public class JsonXmlUtil {
         return output.toString();
     }
 
-    /**
-     * xml string convert to json string
-     */
+
     public static String xml2json(String xml) {
         StringReader input = new StringReader(xml);
         StringWriter output = new StringWriter();
@@ -71,9 +68,9 @@ public class JsonXmlUtil {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
+            input.close();
             try {
                 output.close();
-                input.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
