@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abddef6b-cc48-4ad2-b8eb-6f60529a01e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/cachelinepadding/Demo1BeforeJDK8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/cachelinepadding/Demo2ForJDK8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/grasswort/math/Percentage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,10 @@
       <workItem from="1586941669243" duration="2235000" />
       <workItem from="1587118621690" duration="30000" />
       <workItem from="1587180855436" duration="189000" />
-      <workItem from="1587305566556" duration="1028000" />
+      <workItem from="1587305566556" duration="1373000" />
+      <workItem from="1587308418824" duration="10000" />
+      <workItem from="1591610145970" duration="63000" />
+      <workItem from="1591611371021" duration="14000" />
     </task>
     <servers />
   </component>
